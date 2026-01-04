@@ -1,2 +1,2 @@
-# ACWW-EDIT
+# ACWWLHGTOOL
 Developed by Kouta_ACNH
